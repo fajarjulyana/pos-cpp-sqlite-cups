@@ -1,0 +1,14 @@
+=================================
+=  STRUK TRANSAKSI FJ FOTOCOPY  =
+=================================
+Tanggal: 11/1/2025
+Waktu  : 20:36:43
+---------------------------------
+Nama       : kejucake
+Harga      : Rp 1500
+Jumlah     : 3
+Subtotal   : Rp 4500
+---------------------------------
+Total      : Rp 4500
+Pembayaran : Rp 5000
+Kembalian  : Rp 500
