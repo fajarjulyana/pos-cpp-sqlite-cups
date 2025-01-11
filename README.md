@@ -4,14 +4,14 @@ Sistem Point of Sale (POS) sederhana ini menggunakan SQLite untuk database dan C
 
 ## Fitur
 
-1. **Tambah Produk**: Menambahkan produk baru ke dalam database dengan nama, harga, dan stok.
+1. **Tambah Produk**: Menambahkan produk baru ke dalam database dengan nama, harga, dan stok id produk manual dan bisa ukuran panjang.
 2. **Lihat Produk**: Menampilkan daftar produk yang ada di dalam database.
 3. **Perbarui Produk**: Memperbarui harga dan stok produk yang sudah ada.
 4. **Hapus Produk**: Menghapus produk dari database.
 5. **Tambah ke Keranjang**: Menambahkan produk ke dalam keranjang belanja.
 6. **Lihat Keranjang**: Menampilkan item yang ada di dalam keranjang belanja.
 7. **Pembayaran**: Melakukan pembayaran untuk produk dalam keranjang dan menghasilkan struk pembelian. Struk dapat dicetak menggunakan printer yang tersedia.
-
+   
 ## Persyaratan
 
 - Compiler C++ yang mendukung C++11 atau lebih tinggi.
