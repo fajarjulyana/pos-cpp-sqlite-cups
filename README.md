@@ -4,7 +4,7 @@ Sistem Point of Sale (POS) sederhana ini menggunakan SQLite untuk database dan C
 
 ## Fitur
 
-1. **Tambah Produk**: Menambahkan produk baru ke dalam database dengan nama, harga, dan stok id produk manual dan bisa ukuran panjang.
+1. **Tambah Produk**: Menambahkan produk baru ke dalam database dengan nama, harga, dan stok. id produk input manual dan bisa ukuran panjang.
 2. **Lihat Produk**: Menampilkan daftar produk yang ada di dalam database.
 3. **Perbarui Produk**: Memperbarui harga dan stok produk yang sudah ada.
 4. **Hapus Produk**: Menghapus produk dari database.
